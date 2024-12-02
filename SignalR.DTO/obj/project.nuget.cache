@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DzhdBPcrarG+gtoZkZQMQBHwtoKKInUPCtJxb5G6DtojNEWqBoxdbQkCQop13l+8BIU3k/Qy7KudqWbHjjlHYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.DTO\\SignalR.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emira\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\emira\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\emira\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
