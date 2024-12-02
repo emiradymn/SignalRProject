@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w7YQJGa0s0TNx4SG2vVAR7kOgcfMTnq0LtKdF/R4aW2Ti0r2gJy14roDqM5h9rfCVo/jPMyJ4d4arlbZJVwlWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.Business\\SignalR.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emira\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\emira\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\emira\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
