@@ -1,6 +1,6 @@
 using System;
 
-namespace SignalRApi.DAL.Entities;
+namespace SignalR.Entity.Entities;
 
 public class Product
 {
