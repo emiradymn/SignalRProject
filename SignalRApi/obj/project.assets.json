@@ -373,6 +373,16 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "SignalR.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SignalR.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SignalR.Entity.dll": {}
+        }
       }
     }
   },
@@ -1076,11 +1086,17 @@
         "system.diagnostics.diagnosticsource.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "SignalR.Entity/1.0.0": {
+      "type": "project",
+      "path": "../SignalR.Entity/SignalR.Entity.csproj",
+      "msbuildProject": "../SignalR.Entity/SignalR.Entity.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.EntityFrameworkCore.Design >= 6.0.36",
+      "SignalR.Entity >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
@@ -1110,7 +1126,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.Entity\\SignalR.Entity.csproj": {
+              "projectPath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.Entity\\SignalR.Entity.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
