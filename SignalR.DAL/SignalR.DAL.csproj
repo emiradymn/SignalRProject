@@ -5,10 +5,6 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
-    <Folder Include="EntityFramework\" />
-    <Folder Include="Repositories\" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\SignalR.Entity\SignalR.Entity.csproj" />
   </ItemGroup>
   <ItemGroup>
