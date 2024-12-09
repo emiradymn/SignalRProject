@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "hxZf/n85uvdImX343vI3XxxagNlQqq/nOONr2VaHWVjN4rg5tPA4koMOpJNIurzQkC+nwW+1Rv8VX3WJvphDMw==",
+  "dgSpecHash": "e7MDn8h1S2UXn2gCQeHjGdXZcRAa8cNWpXHuhfmIzk84Rl8fejBCyeb4KmKG3Xfg1GC8dKewAbwYlEjkfDT9mw==",
   "success": true,
   "projectFilePath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalRApi\\SignalRApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\emira\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\emira\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\emira\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\emira\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\emira\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.36\\microsoft.entityframeworkcore.6.0.36.nupkg.sha512",
     "C:\\Users\\emira\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.36\\microsoft.entityframeworkcore.abstractions.6.0.36.nupkg.sha512",
     "C:\\Users\\emira\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.36\\microsoft.entityframeworkcore.analyzers.6.0.36.nupkg.sha512",
