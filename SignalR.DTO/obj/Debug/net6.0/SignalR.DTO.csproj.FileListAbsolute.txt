@@ -1,0 +1,12 @@
+C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalR.DTO\bin\Debug\net6.0\SignalR.DTO.deps.json
+C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalR.DTO\bin\Debug\net6.0\SignalR.DTO.dll
+C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalR.DTO\bin\Debug\net6.0\SignalR.DTO.pdb
+C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalR.DTO\obj\Debug\net6.0\SignalR.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalR.DTO\obj\Debug\net6.0\SignalR.DTO.AssemblyInfoInputs.cache
+C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalR.DTO\obj\Debug\net6.0\SignalR.DTO.AssemblyInfo.cs
+C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalR.DTO\obj\Debug\net6.0\SignalR.DTO.csproj.CoreCompileInputs.cache
+C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalR.DTO\obj\Debug\net6.0\SignalR.DTO.sourcelink.json
+C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalR.DTO\obj\Debug\net6.0\SignalR.DTO.dll
+C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalR.DTO\obj\Debug\net6.0\refint\SignalR.DTO.dll
+C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalR.DTO\obj\Debug\net6.0\SignalR.DTO.pdb
+C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalR.DTO\obj\Debug\net6.0\ref\SignalR.DTO.dll
