@@ -1,6 +1,19 @@
+using SignalR.Business.Abstract;
+using SignalR.Business.Concrete;
+using SignalR.DAL.Abstract;
+using SignalR.DAL.Concrete;
+using SignalR.DAL.EntityFramework;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddDbContext<SignalRContext>();
+
+builder.Services.AddScoped<IAboutService, AboutManager>();
+builder.Services.AddScoped<IAboutDal, EfAboutDal>();
+
+builder.Services.AddScoped<IBookingService, BookingManager>();
+builder.Services.AddScoped<IBookingDal, EfBookingDal>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

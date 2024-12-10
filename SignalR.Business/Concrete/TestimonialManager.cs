@@ -1,14 +1,15 @@
 using System;
+using SignalR.Business.Abstract;
 using SignalR.DAL.Abstract;
 using SignalR.Entity.Entities;
 
-namespace SignalR.Business.Abstract;
+namespace SignalR.Business.Concrete;
 
-public class TestimonialManager : ITestimonialService
+public class ITestimonialManager : ITestimonialService
 {
     private readonly ITestimonialDal _testimonialDal;
 
-    public TestimonialManager(ITestimonialDal testimonialDal)
+    public ITestimonialManager(ITestimonialDal testimonialDal)
     {
         _testimonialDal = testimonialDal;
     }
