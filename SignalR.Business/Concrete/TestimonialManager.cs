@@ -5,11 +5,11 @@ using SignalR.Entity.Entities;
 
 namespace SignalR.Business.Concrete;
 
-public class ITestimonialManager : ITestimonialService
+public class TestimonialManager : ITestimonialService
 {
     private readonly ITestimonialDal _testimonialDal;
 
-    public ITestimonialManager(ITestimonialDal testimonialDal)
+    public TestimonialManager(ITestimonialDal testimonialDal)
     {
         _testimonialDal = testimonialDal;
     }
