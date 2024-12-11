@@ -2085,8 +2085,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.Entity\\SignalR.Entity.csproj": {
-              "projectPath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.Entity\\SignalR.Entity.csproj"
+            "c:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.Entity\\SignalR.Entity.csproj": {
+              "projectPath": "c:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.Entity\\SignalR.Entity.csproj"
             }
           }
         }

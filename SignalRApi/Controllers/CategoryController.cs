@@ -33,7 +33,7 @@ namespace SignalRApi.Controllers
             _categoryService.TAdd(new Category()
             {
                 CategoryName = createCategoryDto.CategoryName,
-                status = true
+                Status = true
             });
             return Ok("Kategori eklendi");
         }
@@ -53,7 +53,7 @@ namespace SignalRApi.Controllers
             {
                 CategoryID = updateCategoryDto.CategoryID,
                 CategoryName = updateCategoryDto.CategoryName,
-                status = updateCategoryDto.status
+                Status = updateCategoryDto.status
             });
 
             return Ok("category güncellendi");
