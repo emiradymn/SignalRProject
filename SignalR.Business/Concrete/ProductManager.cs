@@ -14,6 +14,11 @@ public class ProductManager : IProductService
         _productDal = productDal;
     }
 
+    // public List<Product> GetProductsWithCategories()
+    // {
+    //     return _productDal.TGetProductsWithCategories();
+    // }
+
     public void TAdd(Product entity)
     {
         _productDal.Add(entity);
@@ -32,6 +37,11 @@ public class ProductManager : IProductService
     public List<Product> TGetListAll()
     {
         return _productDal.GetListAll();
+    }
+
+    public List<Product> TGetProductsWithCategories()
+    {
+        return _productDal.GetProductsWithCategories();
     }
 
     public void TUpdate(Product entity)

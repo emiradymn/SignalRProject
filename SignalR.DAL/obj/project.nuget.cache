@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+j/BYRH9LCkstQzpH5amz+lcj/nwiwqVu0bn/8QIMW7snkSfQk1W/2F59RtMiNgRufOQMQbCFJxRx9dHaxJ+XQ==",
+  "dgSpecHash": "SmAkhVKv+BG6knS7R6ahJ3+30VqudyN1gYHq4Y2boogEmgiE4qLv7jHFkIuxcfbfA7GTtVLwqUdj04UNYkGVUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.DAL\\SignalR.DAL.csproj",
+  "projectFilePath": "c:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.DAL\\SignalR.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emira\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\emira\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

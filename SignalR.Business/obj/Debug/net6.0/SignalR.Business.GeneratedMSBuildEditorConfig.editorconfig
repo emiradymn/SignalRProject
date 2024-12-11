@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SignalR.Business
-build_property.ProjectDir = C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalR.Business\
+build_property.ProjectDir = c:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalR.Business\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
