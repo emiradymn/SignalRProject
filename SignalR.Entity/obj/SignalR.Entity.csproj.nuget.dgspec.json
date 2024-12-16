@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.Entity\\SignalR.Entity.csproj": {}
+    "C:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.Entity\\SignalR.Entity.csproj": {}
   },
   "projects": {
-    "c:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.Entity\\SignalR.Entity.csproj": {
+    "C:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.Entity\\SignalR.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.Entity\\SignalR.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.Entity\\SignalR.Entity.csproj",
         "projectName": "SignalR.Entity",
-        "projectPath": "c:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.Entity\\SignalR.Entity.csproj",
+        "projectPath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.Entity\\SignalR.Entity.csproj",
         "packagesPath": "C:\\Users\\emira\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.Entity\\obj\\",
+        "outputPath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emira\\AppData\\Roaming\\NuGet\\NuGet.Config",
