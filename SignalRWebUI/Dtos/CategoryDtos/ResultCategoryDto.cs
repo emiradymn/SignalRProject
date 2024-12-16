@@ -1,6 +1,4 @@
-using System;
-
-namespace SignalR.DTO.Dtos.CategoryDto;
+namespace SignalRWebUI.Dtos.CategoryDtos;
 
 public class ResultCategoryDto
 {

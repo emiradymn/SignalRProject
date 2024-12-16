@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qRPuOOBI5Y/Kj/ul4dOWNqIXG+w//aO7GKCRBHXBIQd5vLjVmagmc2+9m74ABmdeP/NcGQ1pCkaM6JpN5/Lhxw==",
+  "dgSpecHash": "DzhdBPcrarG+gtoZkZQMQBHwtoKKInUPCtJxb5G6DtojNEWqBoxdbQkCQop13l+8BIU3k/Qy7KudqWbHjjlHYQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.DTO\\SignalR.DTO.csproj",
+  "projectFilePath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.DTO\\SignalR.DTO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emira\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
     "C:\\Users\\emira\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",

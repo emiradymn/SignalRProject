@@ -1,11 +1,13 @@
+C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\bin\Debug\net6.0\SignalRWebUI.exe
+C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\bin\Debug\net6.0\SignalRWebUI.dll
+c:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\bin\Debug\net6.0\appsettings.json
 C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\bin\Debug\net6.0\SignalRWebUI.staticwebassets.runtime.json
-C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\bin\Debug\net6.0\SignalRWebUI.exe
 C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\bin\Debug\net6.0\SignalRWebUI.deps.json
 C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\bin\Debug\net6.0\SignalRWebUI.runtimeconfig.json
-C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\bin\Debug\net6.0\SignalRWebUI.dll
 C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\bin\Debug\net6.0\SignalRWebUI.pdb
+C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\obj\Debug\net6.0\SignalRWebUI.csproj.AssemblyReference.cache
 C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\obj\Debug\net6.0\SignalRWebUI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\obj\Debug\net6.0\SignalRWebUI.AssemblyInfoInputs.cache
 C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\obj\Debug\net6.0\SignalRWebUI.AssemblyInfo.cs
@@ -24,6 +26,7 @@ C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\obj\Debug
 C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\obj\Debug\net6.0\scopedcss\bundle\SignalRWebUI.styles.css
 C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\obj\Debug\net6.0\scopedcss\projectbundle\SignalRWebUI.bundle.scp.css
+C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\obj\Debug\net6.0\SignalRWebUI.csproj.CopyComplete
 C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\obj\Debug\net6.0\SignalRWebUI.dll
 C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\obj\Debug\net6.0\refint\SignalRWebUI.dll
 C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\obj\Debug\net6.0\SignalRWebUI.pdb

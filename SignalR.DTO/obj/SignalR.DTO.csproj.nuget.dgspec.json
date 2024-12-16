@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.DTO\\SignalR.DTO.csproj": {}
+    "C:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.DTO\\SignalR.DTO.csproj": {}
   },
   "projects": {
-    "c:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.DTO\\SignalR.DTO.csproj": {
+    "C:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.DTO\\SignalR.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.DTO\\SignalR.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.DTO\\SignalR.DTO.csproj",
         "projectName": "SignalR.DTO",
-        "projectPath": "c:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.DTO\\SignalR.DTO.csproj",
+        "projectPath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.DTO\\SignalR.DTO.csproj",
         "packagesPath": "C:\\Users\\emira\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.DTO\\obj\\",
+        "outputPath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\SignalR\\SignalRProject\\SignalR.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emira\\AppData\\Roaming\\NuGet\\NuGet.Config",
