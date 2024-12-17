@@ -1,9 +1,8 @@
-using System;
+namespace SignalRWebUI.Dtos.ProductDtos;
 
-namespace SignalR.DTO.Dtos.ProductDto;
-
-public class CreateProductDto
+public class GetProductDto
 {
+    public int ProductID { get; set; }
     public string ProductName { get; set; }
     public string Description { get; set; }
     public decimal Price { get; set; }
