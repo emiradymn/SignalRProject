@@ -42,7 +42,7 @@ namespace SignalRApi.Controllers
             return Ok("İletişim Bilgileri eklendi");
         }
 
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public IActionResult DeleteFeature(int id)
         {
             var value = _featureService.TGetById(id);
@@ -67,7 +67,7 @@ namespace SignalRApi.Controllers
             return Ok("Feature güncellendi");
         }
 
-        [HttpGet("GetFeature")]
+        [HttpGet("{id}")]
         public IActionResult GetFeature(int id)
         {
             var value = _featureService.TGetById(id);
