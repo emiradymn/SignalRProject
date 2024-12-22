@@ -29,6 +29,12 @@ namespace SignalRApi.Controllers
             return Ok(values);
         }
 
+        [HttpGet("ProductCount")]
+        public IActionResult ProductCount()
+        {
+            return Ok(_productService.TProductCount());
+        }
+
         [HttpGet("ProductListWithCategory")]
         public IActionResult ProductListWithCategory()
         {
@@ -44,7 +50,12 @@ namespace SignalRApi.Controllers
                 CategoryName = y.Category.CategoryName
             });
             return Ok(values.ToList());
+        }
 
+        [HttpGet("ProductCountByCategoryName")]
+        public IActionResult ProductCountByCategoryName(string categoryName)
+        {
+            return Ok(_productService.TProductCountByCategoryName(categoryName));
         }
 
         [HttpPost]
