@@ -44,6 +44,19 @@ public class ProductManager : IProductService
         return _productDal.GetProductsWithCategories();
     }
 
+    public int TProductCount()
+    {
+        return _productDal.ProductCount();
+    }
+
+    public int TProductCountByCategoryName(string categoryName)
+    {
+        if (string.IsNullOrWhiteSpace(categoryName))
+            throw new ArgumentException("Doğru Kategori değil");
+
+        return _productDal.ProductCountByCategoryName(categoryName);
+    }
+
     public void TUpdate(Product entity)
     {
         _productDal.Update(entity);
