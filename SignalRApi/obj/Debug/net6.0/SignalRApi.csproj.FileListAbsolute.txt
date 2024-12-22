@@ -85,3 +85,5 @@ C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRApi\obj\Debug\n
 C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRApi\obj\Debug\net6.0\SignalRApi.pdb
 C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRApi\obj\Debug\net6.0\SignalRApi.genruntimeconfig.cache
 C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRApi\obj\Debug\net6.0\ref\SignalRApi.dll
+C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRApi\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll

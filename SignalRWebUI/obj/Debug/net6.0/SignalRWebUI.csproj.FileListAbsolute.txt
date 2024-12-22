@@ -32,3 +32,9 @@ C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\obj\Debug
 C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\obj\Debug\net6.0\SignalRWebUI.pdb
 C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\obj\Debug\net6.0\SignalRWebUI.genruntimeconfig.cache
 C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\obj\Debug\net6.0\ref\SignalRWebUI.dll
+C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\emira\OneDrive\Masaüstü\SignalR\SignalRProject\SignalRWebUI\bin\Debug\net6.0\System.IO.Pipelines.dll
