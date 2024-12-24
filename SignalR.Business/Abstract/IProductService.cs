@@ -8,7 +8,7 @@ public interface IProductService : IGenericService<Product>
     List<Product> TGetProductsWithCategories();
     int TProductCount();
     int TProductCountByCategoryName(string categoryName);
-    decimal TProductPriceAvg();
+    decimal TProductPriceAvg(string productName);
     string TProductNameByMaxPrice();
     string TProductNameByMinPrice();
 

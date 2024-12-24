@@ -13,6 +13,12 @@ public class OrderManager : IOrderService
         _orderDal = orderDal;
     }
 
+    public int TActiveOrderCount()
+    {
+        return _orderDal.ActiveOrderCount();
+    }
+
+
     public void TAdd(Order entity)
     {
         _orderDal.Add(entity);
@@ -32,6 +38,18 @@ public class OrderManager : IOrderService
     {
         return _orderDal.GetListAll();
     }
+
+    public decimal TLastOrderPrice()
+    {
+        return _orderDal.LastOrderPrice();
+    }
+
+
+    public int TTotalOrderCount()
+    {
+        return _orderDal.TotalOrderCount();
+    }
+
 
     public void TUpdate(Order entity)
     {
