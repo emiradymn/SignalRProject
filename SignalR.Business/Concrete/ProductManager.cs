@@ -67,9 +67,13 @@ public class ProductManager : IProductService
         return _productDal.ProductNameByMinPrice();
     }
 
-    public decimal TProductPriceAvg()
+    public decimal TProductPriceAvg(string productName)
     {
-        return _productDal.ProductPriceAvg();
+        if (string.IsNullOrWhiteSpace(productName))
+        {
+            throw new ArgumentException("Doğru Ürün Adı değil");
+        }
+        return _productDal.ProductPriceAvg(productName);
     }
 
     public void TUpdate(Product entity)

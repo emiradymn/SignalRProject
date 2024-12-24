@@ -71,9 +71,9 @@ namespace SignalRApi.Controllers
         }
 
         [HttpGet("ProductPriceAvg")]
-        public IActionResult ProductPriceAvg()
+        public IActionResult ProductPriceAvg(string productName)
         {
-            return Ok(_productService.TProductPriceAvg());
+            return Ok(_productService.TProductPriceAvg(productName));
         }
 
         [HttpPost]
